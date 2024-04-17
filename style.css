@@ -1,0 +1,29 @@
+body{
+background-color: black;
+}
+
+H1{
+	color: white;
+	text-align: center;
+}
+
+p{
+	color: white;
+	font-size: 10px;
+	text-align: center;
+}
+
+#gambar{
+	width: 50%;
+	margin-left: 25%;
+	margin-right: 25%;
+	margin-top: 100px;
+	color: white;
+}
+#gambar1{
+	text-align: center;
+	border: 5px solid white;
+}
+#mekkah.JPG{
+	width: 100%;
+}
